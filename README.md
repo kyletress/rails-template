@@ -38,12 +38,12 @@ Please note: The **only database supported by this template is Postgres**.
 ## What it does
 
 The template works as follows:
-1. Generate the rails files and directories
-2. Add useful gems
-3. Create the databases
-4. Commit everything to git
-5. Check out a development branch
-6. Push the project to a remote git repository (only works with GitHub)
+  1. Generate the rails files and directories
+  2. Add useful gems
+  3. Create the databases
+  4. Commit everything to git
+  5. Check out a development branch
+  6. Push the project to a remote git repository (only works with GitHub)
 
 ## What's included
 
